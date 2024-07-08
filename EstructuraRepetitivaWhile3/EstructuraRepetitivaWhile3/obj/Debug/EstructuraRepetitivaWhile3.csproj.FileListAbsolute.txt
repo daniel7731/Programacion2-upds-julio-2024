@@ -1,0 +1,8 @@
+D:\domingo savio\EstructuraRepetitivaWhile3\EstructuraRepetitivaWhile3\bin\Debug\EstructuraRepetitivaWhile3.exe.config
+D:\domingo savio\EstructuraRepetitivaWhile3\EstructuraRepetitivaWhile3\bin\Debug\EstructuraRepetitivaWhile3.exe
+D:\domingo savio\EstructuraRepetitivaWhile3\EstructuraRepetitivaWhile3\bin\Debug\EstructuraRepetitivaWhile3.pdb
+D:\domingo savio\EstructuraRepetitivaWhile3\EstructuraRepetitivaWhile3\obj\Debug\EstructuraRepetitivaWhile3.csproj.AssemblyReference.cache
+D:\domingo savio\EstructuraRepetitivaWhile3\EstructuraRepetitivaWhile3\obj\Debug\EstructuraRepetitivaWhile3.csproj.SuggestedBindingRedirects.cache
+D:\domingo savio\EstructuraRepetitivaWhile3\EstructuraRepetitivaWhile3\obj\Debug\EstructuraRepetitivaWhile3.csproj.CoreCompileInputs.cache
+D:\domingo savio\EstructuraRepetitivaWhile3\EstructuraRepetitivaWhile3\obj\Debug\EstructuraRepetitivaWhile3.exe
+D:\domingo savio\EstructuraRepetitivaWhile3\EstructuraRepetitivaWhile3\obj\Debug\EstructuraRepetitivaWhile3.pdb
