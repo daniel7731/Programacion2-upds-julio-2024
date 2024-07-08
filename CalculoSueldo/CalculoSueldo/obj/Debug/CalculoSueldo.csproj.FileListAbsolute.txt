@@ -1,0 +1,8 @@
+D:\domingo savio\CalculoSueldo\CalculoSueldo\bin\Debug\CalculoSueldo.exe.config
+D:\domingo savio\CalculoSueldo\CalculoSueldo\bin\Debug\CalculoSueldo.exe
+D:\domingo savio\CalculoSueldo\CalculoSueldo\bin\Debug\CalculoSueldo.pdb
+D:\domingo savio\CalculoSueldo\CalculoSueldo\obj\Debug\CalculoSueldo.csproj.AssemblyReference.cache
+D:\domingo savio\CalculoSueldo\CalculoSueldo\obj\Debug\CalculoSueldo.csproj.SuggestedBindingRedirects.cache
+D:\domingo savio\CalculoSueldo\CalculoSueldo\obj\Debug\CalculoSueldo.csproj.CoreCompileInputs.cache
+D:\domingo savio\CalculoSueldo\CalculoSueldo\obj\Debug\CalculoSueldo.exe
+D:\domingo savio\CalculoSueldo\CalculoSueldo\obj\Debug\CalculoSueldo.pdb
