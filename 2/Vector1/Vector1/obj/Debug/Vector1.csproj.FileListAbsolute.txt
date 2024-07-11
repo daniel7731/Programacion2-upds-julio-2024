@@ -1,0 +1,8 @@
+D:\domingo savio\Vector1\Vector1\bin\Debug\Vector1.exe.config
+D:\domingo savio\Vector1\Vector1\bin\Debug\Vector1.exe
+D:\domingo savio\Vector1\Vector1\bin\Debug\Vector1.pdb
+D:\domingo savio\Vector1\Vector1\obj\Debug\Vector1.csproj.AssemblyReference.cache
+D:\domingo savio\Vector1\Vector1\obj\Debug\Vector1.csproj.SuggestedBindingRedirects.cache
+D:\domingo savio\Vector1\Vector1\obj\Debug\Vector1.csproj.CoreCompileInputs.cache
+D:\domingo savio\Vector1\Vector1\obj\Debug\Vector1.exe
+D:\domingo savio\Vector1\Vector1\obj\Debug\Vector1.pdb
