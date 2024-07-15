@@ -1,0 +1,8 @@
+D:\domingo savio\2\Matrices\Matrices\bin\Debug\Matrices.exe.config
+D:\domingo savio\2\Matrices\Matrices\bin\Debug\Matrices.exe
+D:\domingo savio\2\Matrices\Matrices\bin\Debug\Matrices.pdb
+D:\domingo savio\2\Matrices\Matrices\obj\Debug\Matrices.csproj.AssemblyReference.cache
+D:\domingo savio\2\Matrices\Matrices\obj\Debug\Matrices.csproj.SuggestedBindingRedirects.cache
+D:\domingo savio\2\Matrices\Matrices\obj\Debug\Matrices.csproj.CoreCompileInputs.cache
+D:\domingo savio\2\Matrices\Matrices\obj\Debug\Matrices.exe
+D:\domingo savio\2\Matrices\Matrices\obj\Debug\Matrices.pdb
