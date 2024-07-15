@@ -1,0 +1,8 @@
+D:\domingo savio\2\OrdenamientoBurbuja\OrdenamientoBurbuja\bin\Debug\OrdenamientoBurbuja.exe.config
+D:\domingo savio\2\OrdenamientoBurbuja\OrdenamientoBurbuja\bin\Debug\OrdenamientoBurbuja.exe
+D:\domingo savio\2\OrdenamientoBurbuja\OrdenamientoBurbuja\bin\Debug\OrdenamientoBurbuja.pdb
+D:\domingo savio\2\OrdenamientoBurbuja\OrdenamientoBurbuja\obj\Debug\OrdenamientoBurbuja.csproj.AssemblyReference.cache
+D:\domingo savio\2\OrdenamientoBurbuja\OrdenamientoBurbuja\obj\Debug\OrdenamientoBurbuja.csproj.SuggestedBindingRedirects.cache
+D:\domingo savio\2\OrdenamientoBurbuja\OrdenamientoBurbuja\obj\Debug\OrdenamientoBurbuja.csproj.CoreCompileInputs.cache
+D:\domingo savio\2\OrdenamientoBurbuja\OrdenamientoBurbuja\obj\Debug\OrdenamientoBurbuja.exe
+D:\domingo savio\2\OrdenamientoBurbuja\OrdenamientoBurbuja\obj\Debug\OrdenamientoBurbuja.pdb

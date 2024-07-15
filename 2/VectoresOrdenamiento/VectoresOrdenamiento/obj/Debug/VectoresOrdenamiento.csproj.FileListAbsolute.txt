@@ -1,0 +1,8 @@
+D:\domingo savio\2\VectoresOrdenamiento\VectoresOrdenamiento\bin\Debug\VectoresOrdenamiento.exe.config
+D:\domingo savio\2\VectoresOrdenamiento\VectoresOrdenamiento\bin\Debug\VectoresOrdenamiento.exe
+D:\domingo savio\2\VectoresOrdenamiento\VectoresOrdenamiento\bin\Debug\VectoresOrdenamiento.pdb
+D:\domingo savio\2\VectoresOrdenamiento\VectoresOrdenamiento\obj\Debug\VectoresOrdenamiento.csproj.AssemblyReference.cache
+D:\domingo savio\2\VectoresOrdenamiento\VectoresOrdenamiento\obj\Debug\VectoresOrdenamiento.csproj.SuggestedBindingRedirects.cache
+D:\domingo savio\2\VectoresOrdenamiento\VectoresOrdenamiento\obj\Debug\VectoresOrdenamiento.csproj.CoreCompileInputs.cache
+D:\domingo savio\2\VectoresOrdenamiento\VectoresOrdenamiento\obj\Debug\VectoresOrdenamiento.exe
+D:\domingo savio\2\VectoresOrdenamiento\VectoresOrdenamiento\obj\Debug\VectoresOrdenamiento.pdb
