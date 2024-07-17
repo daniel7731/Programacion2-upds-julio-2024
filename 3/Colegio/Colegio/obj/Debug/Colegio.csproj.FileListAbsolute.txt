@@ -1,0 +1,8 @@
+D:\domingo savio\3\Colegio\Colegio\obj\Debug\Colegio.csproj.AssemblyReference.cache
+D:\domingo savio\3\Colegio\Colegio\obj\Debug\Colegio.csproj.SuggestedBindingRedirects.cache
+D:\domingo savio\3\Colegio\Colegio\obj\Debug\Colegio.csproj.CoreCompileInputs.cache
+D:\domingo savio\3\Colegio\Colegio\bin\Debug\Colegio.exe.config
+D:\domingo savio\3\Colegio\Colegio\bin\Debug\Colegio.exe
+D:\domingo savio\3\Colegio\Colegio\bin\Debug\Colegio.pdb
+D:\domingo savio\3\Colegio\Colegio\obj\Debug\Colegio.exe
+D:\domingo savio\3\Colegio\Colegio\obj\Debug\Colegio.pdb
