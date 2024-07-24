@@ -49,7 +49,7 @@ namespace Matrices2
             {
                 Console.WriteLine("Ingresa el numero de filas :");
                 int filas = int.Parse(Console.ReadLine());
-                Console.WriteLine("Ingresa el numero de filas :");
+                Console.WriteLine("Ingresa el numero de columnas :");
                 int columnas = int.Parse(Console.ReadLine());
                 Matriz m = new Matriz(filas, columnas);
                 m.CargarAleatorio(1,10);
