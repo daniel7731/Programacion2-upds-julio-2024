@@ -1,0 +1,8 @@
+D:\domingo savio\3\Matrices3\Matrices3\bin\Debug\Matrices3.exe.config
+D:\domingo savio\3\Matrices3\Matrices3\bin\Debug\Matrices3.exe
+D:\domingo savio\3\Matrices3\Matrices3\bin\Debug\Matrices3.pdb
+D:\domingo savio\3\Matrices3\Matrices3\obj\Debug\Matrices3.csproj.AssemblyReference.cache
+D:\domingo savio\3\Matrices3\Matrices3\obj\Debug\Matrices3.csproj.SuggestedBindingRedirects.cache
+D:\domingo savio\3\Matrices3\Matrices3\obj\Debug\Matrices3.csproj.CoreCompileInputs.cache
+D:\domingo savio\3\Matrices3\Matrices3\obj\Debug\Matrices3.exe
+D:\domingo savio\3\Matrices3\Matrices3\obj\Debug\Matrices3.pdb
